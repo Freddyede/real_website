@@ -16,3 +16,5 @@ src/Entity/
 *.yaml
 
 src/Repository/
+
+src/Migrations/
